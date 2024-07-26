@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
           
           
-https://github.com/ABGeov/ABGeov/assets/148478658/dd30d868-7a90-4576-b6cb-c054a8fe3902
 
 
 
