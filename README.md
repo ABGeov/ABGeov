@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on finanças.
-- 🌱 I’m learning desenvolvimento front-end
+
+- 🌱 I'm studying postgraduate studies in Data Analytics at FIAP
 - 📫 How to reach me: E-mail: Ab.geovanna24@gmail.com - Celular (11) 99866-8409 (Whatsapp)
 
 
